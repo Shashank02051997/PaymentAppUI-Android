@@ -31,6 +31,7 @@ Check out the new style for App Design aims for Payment App...😉😀😁😎
 <img src="https://github.com/Shashank02051997/PaymentAppUI-Android/blob/master/Screenshots/Screenshot_20200508-170644.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/PaymentAppUI-Android/blob/master/Screenshots/Screenshot_20200508-170651.png" height="600" width="300" hspace="40">
 
 <img src="https://github.com/Shashank02051997/PaymentAppUI-Android/blob/master/Screenshots/Screenshot_20200508-170703.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/PaymentAppUI-Android/blob/master/Screenshots/Screenshot_20200508-170708.png" height="600" width="300" hspace="40">
+
 <img src="https://github.com/Shashank02051997/PaymentAppUI-Android/blob/master/Screenshots/Screenshot_20200508-170713.png" height="600" width="300" hspace="40">
 
 
