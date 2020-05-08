@@ -204,13 +204,22 @@
                 app:hintTextColor="@color/colorAccent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView8">
+                app:layout_constraintTop_toBottomOf="@+id/textView8"
+                app:prefixText="$"
+                app:prefixTextColor="#D6D9E4"
+                app:suffixText="change currency"
+                app:suffixTextAppearance="@style/TextAppearance.AppCompat.Small"
+                app:suffixTextColor="@color/colorAccent">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:drawablePadding="8dp"
                     android:fontFamily="@font/calibri"
                     android:hint="Amount"
+                    android:inputType="numberDecimal"
+                    android:textColor="@color/black"
+                    android:textCursorDrawable="@null"
                     android:textSize="16sp" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -235,6 +244,8 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/calibri"
                     android:hint="Description"
+                    android:textColor="@color/black"
+                    android:textCursorDrawable="@null"
                     android:textSize="16sp" />
 
             </com.google.android.material.textfield.TextInputLayout>
