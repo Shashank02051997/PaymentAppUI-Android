@@ -5,10 +5,6 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import androidx.navigation.NavController
-import androidx.navigation.Navigation
-import androidx.navigation.findNavController
-import androidx.navigation.ui.setupWithNavController
 import com.shashank.paymentappui.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

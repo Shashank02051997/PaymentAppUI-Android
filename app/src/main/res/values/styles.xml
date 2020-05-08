@@ -13,4 +13,27 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
+    // Custom Tab
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/calibri</item>
+        <item name="android:textSize">16sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="CustomTab" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/tab_text</item>
+    </style>
+
+    // Button
+
+    <style name="ButtonActionStyle" parent="android:Widget.Button">
+        <item name="android:background">@drawable/purple_rounded_shape_bg</item>
+        <item name="android:fontFamily">@font/calibri</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
 </resources>
